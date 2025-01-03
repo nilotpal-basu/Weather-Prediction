@@ -1,4 +1,4 @@
-# README : Weather Classifier
+# README : Weather Prediction
 
 This project is a weather classifier that categorizes weather conditions into five classes: **Drizzle**, **Fog**, **Rain**, **Snow**, and **Sun**. The classification model uses a **Random Forest Classifier**, and key techniques like **log1p transformation** for handling skewness and **hyperparameter tuning** to improve model performance. The dataset has imbalanced class labels, and efforts were made to improve recall, precision, and F1 scores for the minority classes.
 
