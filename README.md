@@ -90,4 +90,4 @@ The weather classifier demonstrates strong performance in classifying different 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-classifier.git
+   git clone https://github.com/nilotpal-basu/Weather-Prediction.git
